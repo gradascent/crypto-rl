@@ -17,5 +17,5 @@ agent/a2c_weights/*
 
 *.egg*
 
-*.ipynb
+
 .ipynb_checkpoints

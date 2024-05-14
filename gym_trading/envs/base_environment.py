@@ -4,7 +4,7 @@ from typing import Union
 
 import numpy as np
 import pandas as pd
-from gym import Env
+from gymnasium import Env
 
 import gym_trading.utils.reward as reward_types
 from configurations import (
